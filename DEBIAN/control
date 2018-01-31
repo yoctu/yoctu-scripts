@@ -1,0 +1,6 @@
+Package: yosh-scripts
+Version: 0.1
+Architecture: all
+Maintainer: Dzove855 <dzove855@yoctu.com>
+Depends: jq
+Description: Some usefull scripts
