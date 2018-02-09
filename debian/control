@@ -1,0 +1,12 @@
+Source: yoctu-scripts
+Section: utils
+Maintainer: Dzove855 <dzove855@yoctu.com>
+Build-Depends: debhelper
+Standards-Version: 0.2
+
+Package: yoctu-scripts
+Architecture: all
+Maintainer: Dzogovic Vehbo <dzove855@yoctu.com>
+Priority: optional
+Depends: jq
+Description: Some usefull scripts
