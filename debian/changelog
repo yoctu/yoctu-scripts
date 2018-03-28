@@ -1,4 +1,4 @@
-yoctu-scripts (0.2.1) unstable; urgency=low
+yoctu-scripts (0.2.2) unstable; urgency=low
 
   * PHP gzdeflate/inflate
 
