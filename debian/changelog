@@ -1,5 +1,12 @@
 yoctu-scripts (0.2.1) unstable; urgency=low
 
+  * PHP gzdeflate/inflate
+
+ -- Dzove855 <dzove855@yoctu.com>  Fri, 28 Mars 2018 23:37:37 +0200
+
+
+yoctu-scripts (0.2.1) unstable; urgency=low
+
   * Correct installer
 
  -- Dzove855 <dzove855@yoctu.com>  Fri, 09 Feb 2018 15:41:48 +0200

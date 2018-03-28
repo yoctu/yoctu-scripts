@@ -2,11 +2,11 @@ Source: yoctu-scripts
 Section: utils
 Maintainer: Dzove855 <dzove855@yoctu.com>
 Build-Depends: debhelper
-Standards-Version: 0.2.1
+Standards-Version: 0.2.2
 
 Package: yoctu-scripts
 Architecture: all
 Maintainer: Dzogovic Vehbo <dzove855@yoctu.com>
 Priority: optional
-Depends: jq
+Depends: jq, php
 Description: Some usefull scripts
