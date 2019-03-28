@@ -8,5 +8,6 @@ Package: yoctu-scripts
 Architecture: all
 Maintainer: Dzogovic Vehbo <dzove855@yoctu.com>
 Priority: optional
-Depends: jq, php
+Depends: jq
+Recommends: php
 Description: Some usefull scripts
