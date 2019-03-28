@@ -1,3 +1,10 @@
+yoctu-scripts (0.2.4) unstable; urgency=low
+
+  * Add php as recommend instead of depend
+
+ -- Dzove855 <dzove855@yoctu.com>  Fri, 29 Mar 2019 02:43:25 +0200
+
+
 yoctu-scripts (0.2.3) unstable; urgency=low
 
   * Urlencode/decode
