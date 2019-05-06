@@ -44,6 +44,7 @@ $options->{urlencode} = 1 if !defined($options->{urldecode});
 _quit(0,$HELP) if defined($options->{help});
 
 my $str = do { local $/; <STDIN> };
+$str =~ s/\+/%20/g;
 
 if ( defined($options->{urlencode}) ) {
     print uri_escape($str);
